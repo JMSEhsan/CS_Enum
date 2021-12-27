@@ -1,0 +1,15 @@
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\bin\Debug\net6.0\CS_Enum.exe
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\bin\Debug\net6.0\CS_Enum.deps.json
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\bin\Debug\net6.0\CS_Enum.runtimeconfig.json
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\bin\Debug\net6.0\CS_Enum.dll
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\bin\Debug\net6.0\ref\CS_Enum.dll
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\bin\Debug\net6.0\CS_Enum.pdb
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.csproj.AssemblyReference.cache
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.AssemblyInfoInputs.cache
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.AssemblyInfo.cs
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.csproj.CoreCompileInputs.cache
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.dll
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\ref\CS_Enum.dll
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.pdb
+C:\Users\se_ja\OneDrive\Desktop\CS_Enum\obj\Debug\net6.0\CS_Enum.genruntimeconfig.cache
